@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArelyC77
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Java at FIU
-- 💞️ I’m looking to collaborate on programs with different companies
+- 👀 I’m graduating from Florida International Univeristy in Spring 2025
+- 🌱 I have knowledge in React JS, Java, SQL, and Spring boot.
+- 💞️ I’m looking for a software engineer/developer role
 - 📫 How to reach me -> e-mail: arely.corre@hotmail.com
 
 <!---
